@@ -1,7 +1,7 @@
 {
     "name": "kahanov/shortlinks",
-    "version": "dev-master",
-    "minimum-stability": "dev",
+    "version": "dev-main",
+    "minimum-stability": "dev-main",
     "description": "Yii2 short-links module",
     "keywords": ["yii2", "kahanov", "module"],
     "type": "yii2-extension",
