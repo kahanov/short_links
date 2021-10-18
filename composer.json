@@ -1,6 +1,6 @@
 {
     "name": "kahanov/short_links",
-    "version": "dev-master",
+    "version": "1.0.0",
     "description": "Yii2 short_links module",
     "keywords": ["yii2", "kahanov", "module"],
     "type": "yii2-extension",
