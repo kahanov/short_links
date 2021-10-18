@@ -15,7 +15,7 @@ Yii2 short_links модуль
 Запустите
 
 ```
-php composer.phar require --prefer-dist kahanov/shortlinks "*"
+composer require kahanov/shortlinks "dev-main"
 ```
 
 Использование
@@ -39,7 +39,7 @@ php composer.phar require --prefer-dist kahanov/shortlinks "*"
 
 ```php
 
-./yii migrate --migrationPath=@vendor/kahanov/shortlinks/migrations
+php yii migrate --migrationPath=@vendor/kahanov/shortlinks/migrations
 
 ```
 
