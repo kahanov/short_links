@@ -1,9 +1,9 @@
 <?php
 
-namespace kahanov\short_links\core\services;
+namespace kahanov\shortlinks\core\services;
 
-use kahanov\short_links\core\forms\CreateForm;
-use kahanov\short_links\core\models\ShortLinks;
+use kahanov\shortlinks\core\forms\CreateForm;
+use kahanov\shortlinks\core\models\ShortLinks;
 use Yii;
 
 class ShortLinksService

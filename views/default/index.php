@@ -1,12 +1,12 @@
 <?php
 /* @var $this yii\web\View */
 
-/* @var $model \kahanov\short_links\core\forms\CreateForm */
+/* @var $model \kahanov\shortlinks\core\forms\CreateForm */
 
 use yii\helpers\Html;
 use kartik\form\ActiveForm;
 
-kahanov\short_links\Asset::register($this);
+kahanov\shortlinks\Asset::register($this);
 
 $this->title = Yii::t('app', 'Сервис коротких ссылок');
 $this->params['breadcrumbs'][] = $this->title;

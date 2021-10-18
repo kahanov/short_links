@@ -1,6 +1,6 @@
 <?php
 
-namespace kahanov\short_links;
+namespace kahanov\shortlinks;
 
 /**
  * short_links module class

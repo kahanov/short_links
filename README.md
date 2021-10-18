@@ -15,7 +15,7 @@ Yii2 short_links модуль
 Запустите
 
 ```
-php composer.phar require --prefer-dist kahanov/short_links "*"
+php composer.phar require --prefer-dist kahanov/shortlinks "*"
 ```
 
 Использование
@@ -25,11 +25,11 @@ php composer.phar require --prefer-dist kahanov/short_links "*"
 
 ```php
 'bootstrap' => [
-        'kahanov\short_links\core\bootstraps\ShortLinksBootstrap',
+        'kahanov\shortlinks\core\bootstraps\ShortLinksBootstrap',
     ],
 'modules' => [
     'short-links' => [
-        'class' => 'kahanov\short_links\Module',
+        'class' => 'kahanov\shortlinks\Module',
     ],
     ...
 ],
@@ -39,7 +39,7 @@ php composer.phar require --prefer-dist kahanov/short_links "*"
 
 ```php
 
-./yii migrate --migrationPath=@vendor/kahanov/short_links/migrations
+./yii migrate --migrationPath=@vendor/kahanov/shortlinks/migrations
 
 ```
 

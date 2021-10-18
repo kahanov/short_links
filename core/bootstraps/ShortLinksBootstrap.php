@@ -1,6 +1,6 @@
 <?php
 
-namespace kahanov\short_links\core\bootstraps;
+namespace kahanov\shortlinks\core\bootstraps;
 
 use yii\base\BootstrapInterface;
 

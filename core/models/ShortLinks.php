@@ -1,6 +1,6 @@
 <?php
 
-namespace kahanov\short_links\core\models;
+namespace kahanov\shortlinks\core\models;
 
 use yii\behaviors\TimestampBehavior;
 use yii\db\ActiveRecord;

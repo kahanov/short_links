@@ -1,6 +1,6 @@
 <?php
 
-namespace kahanov\short_links\core\forms;
+namespace kahanov\shortlinks\core\forms;
 
 use Yii;
 use yii\base\Model;

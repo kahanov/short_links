@@ -1,10 +1,10 @@
 <?php
 
-namespace kahanov\short_links\controllers;
+namespace kahanov\shortlinks\controllers;
 
-use kahanov\short_links\core\forms\CreateForm;
-use kahanov\short_links\core\models\ShortLinks;
-use kahanov\short_links\core\services\ShortLinksService;
+use kahanov\shortlinks\core\forms\CreateForm;
+use kahanov\shortlinks\core\models\ShortLinks;
+use kahanov\shortlinks\core\services\ShortLinksService;
 use Yii;
 use yii\bootstrap\ActiveForm;
 use yii\web\Controller;
