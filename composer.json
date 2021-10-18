@@ -1,0 +1,24 @@
+{
+    "name": "kahanov/short_links",
+    "description": "Yii2 short_links module",
+    "keywords": ["yii2", "kahanov", "module"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maksim Kahanov",
+            "email": "maksim.kahanov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*",
+        "kartik-v/yii2-widgets": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kahanov\\short_links\\": ""
+        }
+    }
+}

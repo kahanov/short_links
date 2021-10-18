@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 40 40" fill="none">
+  <defs>
+	<linearGradient id="phone_preloader-gradient" gradientUnits="userSpaceOnUse" y1="30" x2="40" y2="30">
+			<stop offset="0" stop-color="#000"></stop>
+			<stop offset="1" stop-color="#fff" stop-opacity="0"></stop>
+	</linearGradient>
+  </defs>
+
+  <path fill="url(#phone_preloader-gradient)"
+		  d="M20,35c-8.3,0-15-6.7-15-15H0c0,11,9,20,20,20c11,0,20-9,20-20h-5C35,28.3,28.3,35,20,35z"></path>
+
+  <animateTransform from="0 0 0" to="360 0 0" attributeName="transform" type="rotate" repeatCount="indefinite" dur="500ms"/>
+</svg>
